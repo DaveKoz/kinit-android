@@ -3,7 +3,7 @@ package org.kinecosystem.kinit.server
 import android.content.Context
 import android.text.TextUtils
 import android.util.Log
-import kin.core.exception.OperationFailedException
+import kin.sdk.exception.OperationFailedException
 import org.kinecosystem.kinit.analytics.Analytics
 import org.kinecosystem.kinit.analytics.Events
 import org.kinecosystem.kinit.blockchain.Wallet
